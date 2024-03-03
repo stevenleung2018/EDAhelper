@@ -5,7 +5,7 @@ description = "Toolset to make EDA easier!"
 authors = ["Rowan Sivanandam, Steven Leung, Vera Cui, Jennifer Hoang"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/UBC-MDS/EDAhelper.git"
+repository = "https://github.com/stevenleung2018/EDAhelper.git"
 documentation = 'https://edahelper.readthedocs.io'
 packages = [
     { include="EDAhelper", from="./src" },
