@@ -1,7 +1,7 @@
 # EDAhelper
 [![Documentation Status](https://readthedocs.org/projects/edahelper/badge/?version=latest)](https://edahelper.readthedocs.io/en/latest/?badge=latest)
-[![codecov](https://codecov.io/gh/UBC-MDS/EDAhelper/branch/master/graph/badge.svg?token=2aRO8HaPHn)](https://codecov.io/gh/UBC-MDS/EDAhelper)
-![github workflow](https://github.com/stevenleung2018/EDAhelper/actions/workflows/ci-cd.yml/badge.svg)
+[![codecov](https://codecov.io/gh/stevenleung2018/EDAhelper/branch/master/graph/badge.svg?token=2aRO8HaPHn)](https://codecov.io/gh/UBC-MDS/EDAhelper)
+![github workflow](https://github.com/stevenleung2018/EDAhelper/actions/workflows/ci.yml/badge.svg)
 
 Tools to make EDA easier!
 
