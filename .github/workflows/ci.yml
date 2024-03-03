@@ -21,8 +21,6 @@ jobs:
     - uses: actions/checkout@v2
     # Step 4. Install poetry
     - uses: snok/install-poetry@v1
-    - name: Install codecov
-      run: pip install codecov
     # Step 5. Install our package
     - name: Install package
       run: poetry install
