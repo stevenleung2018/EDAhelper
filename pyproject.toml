@@ -12,17 +12,17 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 altair = "^4.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest-cov = "^3.0.0"
 pytest = "^6.2.5"
 jupyter = "^1.0.0"
-myst-nb = "^0.13.1"
-sphinx-autoapi = "^1.8.4"
+myst-nb = "^1.0.0"
+sphinx-autoapi = "^3.0.0"
 sphinx-rtd-theme = "^1.0.0"
-Sphinx = "^4.4.0"
+Sphinx = "^6.1.0"
 nbsphinx = "^0.8.8"
 ipykernel = "^6.7.0"
 codecov = "^2.1.12"
